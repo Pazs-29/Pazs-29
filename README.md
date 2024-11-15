@@ -46,8 +46,8 @@
 </head>
 <body>
     <header>
-        <h1>¡Hola! Soy [Tu Nombre]</h1>
-        <p>Desarrollador | Diseñador | [Tu Especialidad]</p>
+        <h1>¡Hola! Soy Angelo </h1>
+        <p>Desarrollador | Diseñador | Estudiante de Ingenieria Industrial </p>
     </header>
     <nav>
         <a href="#about">Acerca de mí</a>
